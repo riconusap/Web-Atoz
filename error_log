@@ -1,0 +1,40 @@
+[22-Nov-2021 16:56:45 Asia/Jakarta] PHP Warning:  include(cms/assets/relasi/koneksi.php): failed to open stream: No such file or directory in /home/atox3513/public_html/register.php on line 3
+[22-Nov-2021 16:56:45 Asia/Jakarta] PHP Warning:  include(): Failed opening 'cms/assets/relasi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/atox3513/public_html/register.php on line 3
+[22-Nov-2021 16:56:45 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/atox3513/public_html/register.php on line 5
+[22-Nov-2021 16:56:45 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/atox3513/public_html/register.php on line 5
+[25-Nov-2021 06:28:37 Asia/Jakarta] PHP Warning:  include(cms/assets/relasi/koneksi.php): failed to open stream: No such file or directory in /home/atox3513/public_html/register.php on line 3
+[25-Nov-2021 06:28:37 Asia/Jakarta] PHP Warning:  include(): Failed opening 'cms/assets/relasi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/atox3513/public_html/register.php on line 3
+[25-Nov-2021 06:28:37 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/atox3513/public_html/register.php on line 5
+[25-Nov-2021 06:28:37 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/atox3513/public_html/register.php on line 5
+[25-Nov-2021 06:31:04 Asia/Jakarta] PHP Warning:  include(cms/assets/relasi/koneksi.php): failed to open stream: No such file or directory in /home/atox3513/public_html/register.php on line 3
+[25-Nov-2021 06:31:04 Asia/Jakarta] PHP Warning:  include(): Failed opening 'cms/assets/relasi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/atox3513/public_html/register.php on line 3
+[25-Nov-2021 06:31:04 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/atox3513/public_html/register.php on line 5
+[25-Nov-2021 06:31:04 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/atox3513/public_html/register.php on line 5
+[25-Nov-2021 14:46:00 Asia/Jakarta] PHP Warning:  include(cms/assets/relasi/koneksi.php): failed to open stream: No such file or directory in /home/atox3513/public_html/register.php on line 3
+[25-Nov-2021 14:46:00 Asia/Jakarta] PHP Warning:  include(): Failed opening 'cms/assets/relasi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/atox3513/public_html/register.php on line 3
+[25-Nov-2021 14:46:00 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/atox3513/public_html/register.php on line 5
+[25-Nov-2021 14:46:00 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/atox3513/public_html/register.php on line 5
+[26-Nov-2021 09:16:06 Asia/Jakarta] PHP Warning:  include(cms/assets/relasi/koneksi.php): failed to open stream: No such file or directory in /home/atox3513/public_html/register.php on line 3
+[26-Nov-2021 09:16:06 Asia/Jakarta] PHP Warning:  include(): Failed opening 'cms/assets/relasi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/atox3513/public_html/register.php on line 3
+[26-Nov-2021 09:16:06 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/atox3513/public_html/register.php on line 5
+[26-Nov-2021 09:16:06 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/atox3513/public_html/register.php on line 5
+[26-Nov-2021 09:16:10 Asia/Jakarta] PHP Warning:  include(cms/assets/relasi/koneksi.php): failed to open stream: No such file or directory in /home/atox3513/public_html/register.php on line 3
+[26-Nov-2021 09:16:10 Asia/Jakarta] PHP Warning:  include(): Failed opening 'cms/assets/relasi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/atox3513/public_html/register.php on line 3
+[26-Nov-2021 09:16:10 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/atox3513/public_html/register.php on line 5
+[26-Nov-2021 09:16:10 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/atox3513/public_html/register.php on line 5
+[22-Dec-2021 16:53:25 Asia/Jakarta] PHP Warning:  include(cms/assets/relasi/koneksi.php): failed to open stream: No such file or directory in /home/atox3513/public_html/register.php on line 3
+[22-Dec-2021 16:53:25 Asia/Jakarta] PHP Warning:  include(): Failed opening 'cms/assets/relasi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/atox3513/public_html/register.php on line 3
+[22-Dec-2021 16:53:25 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/atox3513/public_html/register.php on line 5
+[22-Dec-2021 16:53:25 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/atox3513/public_html/register.php on line 5
+[06-Jan-2022 04:49:54 Asia/Jakarta] PHP Warning:  include(cms/assets/relasi/koneksi.php): failed to open stream: No such file or directory in /home/atox3513/public_html/register.php on line 3
+[06-Jan-2022 04:49:54 Asia/Jakarta] PHP Warning:  include(): Failed opening 'cms/assets/relasi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/atox3513/public_html/register.php on line 3
+[06-Jan-2022 04:49:54 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/atox3513/public_html/register.php on line 5
+[06-Jan-2022 04:49:54 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/atox3513/public_html/register.php on line 5
+[12-Jan-2022 04:06:12 Asia/Jakarta] PHP Warning:  include(cms/assets/relasi/koneksi.php): failed to open stream: No such file or directory in /home/atox3513/public_html/register.php on line 3
+[12-Jan-2022 04:06:12 Asia/Jakarta] PHP Warning:  include(): Failed opening 'cms/assets/relasi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/atox3513/public_html/register.php on line 3
+[12-Jan-2022 04:06:12 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/atox3513/public_html/register.php on line 5
+[12-Jan-2022 04:06:12 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/atox3513/public_html/register.php on line 5
+[13-Jan-2022 08:54:08 Asia/Jakarta] PHP Warning:  include(cms/assets/relasi/koneksi.php): failed to open stream: No such file or directory in /home/atox3513/public_html/register.php on line 3
+[13-Jan-2022 08:54:08 Asia/Jakarta] PHP Warning:  include(): Failed opening 'cms/assets/relasi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/atox3513/public_html/register.php on line 3
+[13-Jan-2022 08:54:08 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/atox3513/public_html/register.php on line 5
+[13-Jan-2022 08:54:08 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/atox3513/public_html/register.php on line 5
